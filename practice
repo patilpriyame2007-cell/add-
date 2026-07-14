@@ -1,0 +1,17 @@
+public class AdditionProgram {
+    public static void main(String[] args) {
+
+        // Declare variables
+        int number1 = 5;
+        int number2 = 6;
+
+        // Calculate addition
+        int sum = number1 + number2;
+
+        // Display the output
+        System.out.println("Number 1 is " + number1);
+        System.out.println("Number 2 is " + number2);
+        System.out.println("Addition of " + number1 + " and " + number2 + " is " + sum);
+
+    }
+}
